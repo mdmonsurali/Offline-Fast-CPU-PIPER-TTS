@@ -57,3 +57,7 @@ Piper’s speed comes from its local processing capabilities. Unlike cloud-based
 Official GitHub Repo: https://github.com/rhasspy/piper?tab=readme-ov-file
 
 Sample Voices: https://rhasspy.github.io/piper-samples/
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
