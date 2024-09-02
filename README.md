@@ -60,4 +60,4 @@ Sample Voices: https://rhasspy.github.io/piper-samples/
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache-2.0-1](https://github.com/mdmonsurali/Offline-Fast-CPU-PIPER-TTS/tree/main?tab=Apache-2.0-1-ov-file#readme)
